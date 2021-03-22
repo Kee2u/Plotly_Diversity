@@ -9,6 +9,6 @@ I have created a web visualization dashboard using javascript, plotly, bootstrap
  - A scatter plot shows a distribution of the different types of bacteria cultures found. Moving your cursor over the bubbles will reveal more information.
  - A bar chart shows the top 10 bacteria cultures found. Moving your cursor over the bars will reveal more information.
  - A gauge chart shows belly button washing frequency.
- - There is a textbox that updates and displays demographics information based on the candidate you select.
+ - There is a textbox that updates and displays demographics information based on the candidate selected.
  
 <img src = "https://github.com/Kee2u/Plotly_Diversity/blob/main/images/Webpage.PNG?raw=true">
